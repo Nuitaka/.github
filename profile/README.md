@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://twitter.com/nuitaka_xyz">
-  <img src="banner.png" width="320" alt="Nuitaka Logo" />
+  <img src="profile/banner.png" width="320" alt="Nuitaka Logo" />
   </a>
 </p>
 
